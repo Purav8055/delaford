@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <strong>Welcome to Delaford. An online, 2D medieval game using JavaScript and HTML5.</strong>
+  <strong>Welcome to Delaford. An online, 2D RPG game using JavaScript and HTML5.</strong>
 
   <img width="704" alt="Game screenshot" src="https://github.com/delaford/game/blob/master/src/assets/github/readme_hero.png">
 </p>
@@ -33,7 +33,7 @@ Now, while still inside the `game` folder, open another terminal session in that
 
 Now you may visit `http://localhost:8080` to login and start developing!
 
-For a better time, make sure to join the [Discord channel](https://discord.gg/nkZnHvD) to talk to other developers for help and exclusive dicussions!
+For a better time, make sure that you definitely join our [Discord channel](https://discord.gg/nkZnHvD) to talk to other developers for help and exclusive dicussions!
 
 > Please be aware of a [possible scam in regards to Delaford](https://github.com/delaford/game#possible-scam-notice) that promises money for testing or similar action.
 
